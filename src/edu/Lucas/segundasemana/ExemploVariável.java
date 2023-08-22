@@ -1,6 +1,6 @@
 package edu.Lucas.segundasemana;
 
-import java.sql.SQLOutput;
+
 
 public class ExemploVariável {
     public static void main(String[] args) {
