@@ -22,5 +22,6 @@ public class Tags {
         public int somar(int numeroUm, int numeroDois) {
             return  numeroUm + numeroDois;
         }
+
     }
 }
